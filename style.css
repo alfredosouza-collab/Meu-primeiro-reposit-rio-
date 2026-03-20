@@ -41,8 +41,8 @@ main {
 
 /* estiliza a imagem dentro do card de apresentação */
 .apresentacao img {
-    width: 150px; /* define largura fixa da imagem */
-    height: 200px; /* define altura fixa da imagem, mantendo proporção próxima de 3x4 */
+    width: 100px; /* define largura fixa da imagem */
+    height: 100px; /* define altura fixa da imagem, mantendo proporção próxima de 3x4 */
     object-fit: cover; /* evita deformação e recorta a imagem se necessário */
     border-radius: 8px; /* arredonda levemente os cantos da imagem */
     margin-bottom: 15px; /* adiciona espaço abaixo da imagem */

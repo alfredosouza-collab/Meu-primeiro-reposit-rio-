@@ -16,7 +16,7 @@ body {
 /* estiliza o cabeçalho */
 header {
     background-color: #022448; /* define a cor de fundo do cabeçalho */
-    color: rgb(228, 252, 252); /* define a cor do texto do cabeçalho */
+    color: rgb(236, 251, 251); /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
 }

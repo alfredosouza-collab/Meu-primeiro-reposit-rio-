@@ -10,7 +10,7 @@
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
     background-color: #f0f4f8; /* define a cor de fundo da página */
-    color: #333333; /* define a cor padrão dos textos */
+    color: #e0d9d9; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
@@ -30,7 +30,7 @@ main {
 
 /* estiliza o card principal de apresentação */
 .apresentacao {
-    background-color: white; /* define fundo branco para o card */
+    background-color: rgb(12, 60, 157); /* define fundo branco para o card */
     text-align: center; /* centraliza os textos e elementos internos */
     padding: 30px; /* adiciona espaço interno no card */
     border-radius: 10px; /* arredonda os cantos do card */
